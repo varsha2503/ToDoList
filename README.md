@@ -1,13 +1,6 @@
-# Decentralized Voting Application using NextJS
+# To Do List using NextJS
 
-This is a demo application to implement voting in solidity smart contract and backend API in NextJS. 
-
-[Youtube Tutorial](https://youtu.be/qbL-gQDzT0o)
-
-
-## Architecture
-
-![alt text](https://raw.githubusercontent.com/syedmuhamaddanish/To-Do-List-BlockChain-NextJS/main/to-do-01.jpg)
+This project is a full-stack To-Do List application that leverages Blockchain technology to provide a secure and Decentralized way of managing tasks. The front-end of the application is built using NextJS, a popular React framework, while the smart contract is deployed and managed using Remix. EthersJS, a JavaScript library for interacting with Ethereum networks, is used to communicate with the deployed smart contract. By integrating blockchain technology, this application offers benefits such as immutability, transparency, and tamper-proof task management.
 
 ## Installation
 
