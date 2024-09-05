@@ -1,4 +1,4 @@
-# To Do List using NextJS
+# Task Management System
 
 This project is a full-stack To-Do List application that leverages Blockchain technology to provide a secure and Decentralized way of managing tasks. The front-end of the application is built using NextJS, a popular React framework, while the smart contract is deployed and managed using Remix. EthersJS, a JavaScript library for interacting with Ethereum networks, is used to communicate with the deployed smart contract. By integrating blockchain technology, this application offers benefits such as immutability, transparency, and tamper-proof task management.
 
